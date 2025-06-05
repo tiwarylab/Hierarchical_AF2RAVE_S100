@@ -1,0 +1,10 @@
+C(c1c(cccc1)C)N(C(=O)C1CCN(CC1)CCOc1ccc(cc1Cl)Cl)C oleObject17_OK
+c1cc(c(cc1)C(c1c(cccn1)C)NC(=O)N1CCN(CC1)CCOc1ccc(cc1Cl)Cl)C oleObject27_OK
+c1cc(c(nc1)C(c1c(cccn1)C)N(C(=O)C1CCN(CC1)CCOc1ccc(cc1Cl)Cl)C)C oleObject42_OK
+c1cc(c(cc1)C(c1c(cccn1)C)N(C(=O)C1CCN(CC1)CCOc1ccc(cc1Cl)Nc1cnc(cc1)c1cc(ccc1)C(=O)N)C)C oleObject80_OK
+c1(ccc(c(c1)Cl)OCCN1CCC(CC1)C(=O)NC(c1ccccc1)c1ccccn1)Cl oleObject14_OK
+O(CCN1CCC(CC1)C(=O)NC(c1ccccc1)c1ccccn1)C(C)(C)C oleObject15_OK
+c1cc(c(cc1)C(c1c(cccn1)C)N(C(=O)C1CCN(CC1)CCOc1ccc(cc1Cl)C#N)C)OC oleObject52_OK
+Cc1ccccc1C(NC(=O)C1CCNCC1)c1ncccc1C oleObject5_OK
+c1cc(c(cc1)C(c1c(cccn1)C)NC(=O)c1ccc(cc1)CNCc1ccc(cc1Cl)Cl)C oleObject70_OK
+c1cc(c(cc1)C(c1c(cccn1)C)N(C(=O)C1CCC2(CN(CCC2)c2ccc(cc2Cl)Nc2ccc(cc2)c2cc(ccc2)C(=N)N)CC1)C)C oleObject79_OK

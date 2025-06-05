@@ -1,0 +1,12 @@
+The file rec_charged.mol2 the receptor file with charges. Add AM1-BCC charges in Chimera and export as a mol2 file. 
+This should prepare the ligand
+The grid.in file has some paths (especially to parameters). Check that they are right
+
+This directory contains files related to scoring grid construction.
+
+                             --- * ---
+
+script_demo     Script to perform demonstration
+box.in          SHOWBOX input file
+grid.in         GRID input file
+script_clean    Script to remove files made by script_demo
